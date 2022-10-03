@@ -2,12 +2,10 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aidan Cowtan
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+07514758411
+<a href="aidancowtan@gmail.com">aidancowtan@gmail.com</a>
 </div>
 
 
