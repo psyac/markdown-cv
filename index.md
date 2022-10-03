@@ -4,7 +4,8 @@ title: Isaac Newtons's CV
 ---
 # Aidan Cowtan
 
-07514758411
+Phone: 07514758411 <br>
+Email:
 <a href="aidancowtan@gmail.com">aidancowtan@gmail.com</a>
 </div>
 
